@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#formName, #formEmail, #formAddress {
+    margin-bottom: 15px;
+}
+
+#button-submit {
+    margin-top: 15px;
+}
